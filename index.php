@@ -19,7 +19,7 @@
         </div>
     </nav>
     
-    <!-- Konek DB MYSQL Untuk checking Status -->
+    <!-- Konek DB MYSQL Untuk mengubah data status berdasarkan file action.php -->
     <div class="container">
         <?php
             $sql = mysqli_query($dbconnect, "SELECT * FROM kontrol");
