@@ -1,3 +1,4 @@
+// File untuk check apakah data request off/on pada website sudah berjalan atau belum menggunakan POSTMAN
 <?php
 if(isset($_POST['token'])){
     include ('connectdb.php');
