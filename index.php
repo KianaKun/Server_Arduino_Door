@@ -14,7 +14,7 @@
 <body>
     <nav class="navbar navbar-light bg-light">
         <div class="container">
-                <!--      Judul Website        -->
+            <!--      Judul Website        -->
             <span class="navbar-brand mb-0 h1">Controlling Smart Door</span> 
         </div>
     </nav>
