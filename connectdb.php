@@ -1,3 +1,4 @@
+// File untuk koneksi ke database mysql
 <?php
 $dbhost = "192.168.1.2";
 $dbuser = "Kianaa";
