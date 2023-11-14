@@ -34,7 +34,7 @@ void setup(){
 void loop(){
   if(WiFi.status() == WL_CONNECTED) {
     HTTPClient http;
-    http.begin("http://192.168.136.9/control.php");
+    http.begin("http://IP Address Webserver/control.php");
     http.addHeader("Content-type", "application/x-www-form-urlencoded");
     int httpResponseCode = http.POST("token="+ key);
     delay(100);
