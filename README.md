@@ -1,2 +1,2 @@
 Project Kelompok 6 
-Memerlukan APACHE dan MYSQL
+Memerlukan Apache, SQL dan Arduino
